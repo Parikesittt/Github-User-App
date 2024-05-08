@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SubmissionAwalMdl3" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="android:colorBackground">@color/drab_dark_brown</item>
+        <item name="colorOnSurface">@color/vanilla</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/Slate_Gray</item>
+        <item name="colorSecondaryVariant">@color/payne_gray</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>

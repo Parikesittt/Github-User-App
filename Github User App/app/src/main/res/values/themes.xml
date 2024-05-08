@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SubmissionAwalMdl3" parent="Theme.Material3.DayNight">
+        <item name="android:colorBackground">@color/vanilla</item>
+        <item name="colorPrimary">@color/drab_dark_brown</item>
+        <item name="colorPrimaryVariant">@color/vanilla</item>
+        <item name="colorOnPrimary">@color/jasmine</item>
+        <item name="colorSecondary">@color/Slate_Gray</item>
+        <item name="colorSecondaryVariant">@color/payne_gray</item>
+        <item name="colorOnSecondary">@color/jasmine</item>
+    </style>
+
+    <style name="Theme.SubmissionAwalMdl3" parent="Base.Theme.SubmissionAwalMdl3" />
+</resources>
